@@ -23,6 +23,21 @@ a:visited {
     text-decoration: none;
 }
 
+.mumu {
+    color: #00a6ff;
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.texMumu {
+    margin: 50px;
+    font-weight: bolder;
+    font-size: larger;
+}
+
 .botoes_header { 
     display: flex;
     text-align: center;
